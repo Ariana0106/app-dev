@@ -42,9 +42,13 @@ Favorite movie: The Dark Knight
 - [x] Watched The Dark Knight
 - [x] Watched Breaking Bad
 - [x] Watched The Lord of the Rings
+ 
 ~~I don't like movies.~~ I love movies! 🎬
+ 
 ## Poster
 ![Movie poster placeholder](https://placehold.co/600x200.png)
+ 
 ## Learn More
 [Visit the Breaking Bad Wiki](https://breakingbad.fandom.com)
-*Thanks for reading!
+ 
+*Thanks for reading!*
